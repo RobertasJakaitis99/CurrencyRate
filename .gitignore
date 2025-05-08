@@ -1,7 +1,7 @@
 # Bendras
 node_modules/
 .env
-
+.vscode/
 # Frontend
 /frontend/node_modules/
 /frontend/dist/
