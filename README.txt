@@ -1,6 +1,6 @@
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/currency_app
-JWT_SECRET=superSlaptasRaktas123!
+JWT_SECRET=superSlapta1!
 NODE_ENV=development
 
 VITE_API_URL=http://localhost:5000/api
