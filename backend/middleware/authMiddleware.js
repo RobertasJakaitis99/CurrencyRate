@@ -18,7 +18,7 @@ exports.isAuth = (req, res, next) => {
   }
 };
 
-// Tik admin
+// Tik ad
 exports.isAdmin = (req, res, next) => {
   if (req.user.role !== "admin") {
     return res
